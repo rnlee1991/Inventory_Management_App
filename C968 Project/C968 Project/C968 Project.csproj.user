@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Screens\Main Screen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Add Part.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Modify Part.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Modify Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Screens\Add Product.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

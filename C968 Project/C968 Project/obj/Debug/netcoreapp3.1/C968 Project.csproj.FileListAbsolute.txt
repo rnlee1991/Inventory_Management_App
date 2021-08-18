@@ -1,0 +1,19 @@
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\bin\Debug\netcoreapp3.1\C968 Project.exe
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\bin\Debug\netcoreapp3.1\C968 Project.deps.json
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\bin\Debug\netcoreapp3.1\C968 Project.runtimeconfig.json
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\bin\Debug\netcoreapp3.1\C968 Project.runtimeconfig.dev.json
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\bin\Debug\netcoreapp3.1\C968 Project.dll
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\bin\Debug\netcoreapp3.1\C968 Project.pdb
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968 Project.csprojAssemblyReference.cache
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968 Project.csproj.GenerateResource.cache
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968 Project.AssemblyInfoInputs.cache
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968 Project.AssemblyInfo.cs
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968 Project.csproj.CoreCompileInputs.cache
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968 Project.dll
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968 Project.pdb
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968 Project.genruntimeconfig.cache
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968_Project.AddPartForm.resources
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968_Project.AddProdForm.resources
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968_Project.MainForm.resources
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968_Project.ModPartForm.resources
+C:\Users\rnlee\Documents\WGU\C968\C968 Project\C968 Project\obj\Debug\netcoreapp3.1\C968_Project.ModProdForm.resources
